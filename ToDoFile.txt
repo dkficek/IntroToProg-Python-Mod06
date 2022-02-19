@@ -1,0 +1,6 @@
+clean,3
+cook,2
+run,5
+sweep,1
+shop,4
+laundry,5
